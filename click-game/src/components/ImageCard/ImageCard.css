@@ -1,0 +1,10 @@
+img {
+	height: 150px;
+	display: inline-block;
+}
+body{
+	background-color: khaki; 
+}
+.image-container {
+	display: inline;
+}
