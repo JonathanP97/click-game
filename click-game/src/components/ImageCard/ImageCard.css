@@ -1,6 +1,7 @@
 img {
 	height: 150px;
 	display: inline-block;
+	margin: 0px 8px 0px 8px;
 }
 body{
 	background-color: khaki; 
