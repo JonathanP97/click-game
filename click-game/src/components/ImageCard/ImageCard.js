@@ -1,21 +1,21 @@
 import React, { Component } from "react";
 import "./ImageCard.css";
-import Images from '../../images.json';
+// import Images from '../../images.json';
 
 class ImageCard extends Component {
   constructor(props) {
   	super(props);
-    this.state = {
-      match: null
-    };
-  	this.handleClick = this.handleClick.bind(this);
+   //  this.state = {
+   //    match: null
+   //  };
+  	// this.handleClick = this.handleClick.bind(this);
   }
 
   componentDidMount() {
-    this.setState({match: 0}, () => {
-      console.log(this.state.match);
-    });
-    console.log(Images);
+    // this.setState({match: 0}, () => {
+    //   console.log(this.state.match);
+    // });
+    console.log(this.props);
   }
 
   handleClick(id, e) {
@@ -38,18 +38,14 @@ class ImageCard extends Component {
 
   render(props) {
   	return(
-      {Images.map(function(obj) {
+   //    <div>
+   //      <h3>hi</h3>
+   //    </div>
         <img 
-
+          id={this.props.id}
+          alt={this.props.alt}
+          source={this.props.src}
         />
-      })}
-  	  <img
-  	  	key={this.props.array[0].id}
-        id={this.props.array[0].id}
-   	  	alt={this.props.array[0].name}
-  	  	src={this.props.array[0].image}
-  	  	onClick={this.handleClick.bind(this, this.props.id)}
-  	  />
   	);
   }
 }

@@ -11,17 +11,52 @@
   },
   {
     "id": 3,
-    "name": "Other Timmy",
-    "image": "https://upload.wikimedia.org/wikipedia/en/2/26/Timmy_Turner.png"
+    "name": "Cosmo",
+    "image": "https://vignette.wikia.nocookie.net/fairlyoddparents/images/e/ed/Cosmo_image.png/revision/latest?cb=20170728193402&path-prefix=en"
   },
   {
     "id": 4,
-    "name": "Timmy",
-    "image": "https://upload.wikimedia.org/wikipedia/en/2/26/Timmy_Turner.png"
+    "name": "Wanda",
+    "image": "https://vignette.wikia.nocookie.net/vsbattles/images/8/83/Wanda-1.png/revision/latest?cb=20140103204050"
   },
   {
     "id": 5,
-    "name": "Timmy",
-    "image": "https://upload.wikimedia.org/wikipedia/en/2/26/Timmy_Turner.png"
+    "name": "Sandy",
+    "image": "https://vignette.wikia.nocookie.net/spongebob/images/a/a0/Sandy_Cheeks.svg/revision/latest/scale-to-width-down/270?cb=20100920201409"
+  },
+  {
+    "id": 6,
+    "name": "Patrick",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Patrick_Star.png/220px-Patrick_Star.png"
+  },
+  {
+    "id": 7,
+    "name": "Mr.Krabs",
+    "image": "https://vignette.wikia.nocookie.net/villains/images/3/31/Mr._Krabs.jpg/revision/latest?cb=20131119163828"
+  },
+  {
+    "id": 8,
+    "name": "Squidward",
+    "image": "https://vignette.wikia.nocookie.net/fantendo/images/a/ac/Squidward.png/revision/latest/scale-to-width-down/95?cb=20150606164140"
+  },
+  {
+    "id": 9,
+    "name": "Jimmy",
+    "image": "https://vignette.wikia.nocookie.net/nickelodeon/images/f/f2/JimmyNeutron.png/revision/latest?cb=20150411031453"
+  },
+  {
+    "id": 10,
+    "name": "Zim",
+    "image": "https://vignette.wikia.nocookie.net/zimwiki/images/c/cb/Zim_Smile.jpg/revision/latest?cb=20080609200829"
+  },
+  {
+    "id": 11,
+    "name": "Arnold",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/2a/HeyArnold%21.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Tommy",
+    "image": "https://vignette.wikia.nocookie.net/rugrats/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20130515181249"
   }
 ]
